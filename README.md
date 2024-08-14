@@ -4,6 +4,8 @@ This is a simple interactive, multithreaded Client-Server chat application devel
 Prerequisites
 Java 8 or later must be installed on your system.
 
+
+
 Running the application
 Clone this repo to your local machine and open the project in your favourite IDE or simply navigate to the project folder from command line.
 Start the server by running the Server.java file and follow the prompt.
